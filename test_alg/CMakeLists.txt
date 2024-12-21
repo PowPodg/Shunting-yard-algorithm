@@ -17,4 +17,4 @@ target_link_libraries(algoritm_test
   GTest::GTest
   )
 
-add_test(multiply_gtest algoritm_test)
+add_test(all_gtest algoritm_test)
